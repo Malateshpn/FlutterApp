@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: const Color.fromARGB(255, 236, 233, 233),
         appBar: AppBar(
-          title: const Text('Restaurant App3'),
+          title: const Text('Restaurant App4'),
           centerTitle: true,
           backgroundColor: Colors.deepOrange,
           foregroundColor: Colors.white,
